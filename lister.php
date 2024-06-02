@@ -43,6 +43,7 @@ var_dump($contact);
                     <?= $contact['telephone'] ?> -
                     <?= $contact['email'] ?>
                     <a href="supprimer.php?numContact=<?=$contact['id'] ?>">Supprimer</a>
+                    <a href="form_modification.php?numContact=<?=$contact['id'] ?>">Modifier</a>
                 </li>
             <?php endforeach; ?>
         </ul>
