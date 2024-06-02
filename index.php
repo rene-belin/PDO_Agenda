@@ -14,19 +14,19 @@
     <form action="insertion.php" method="post">
       <p>
         <label for="nom">Nom</label>
-        <input type="text" name="firstname" id="nom">
+        <input type="text" name="nom" id="nom">
       </p>
       <p>
         <label for="prenom">Prénom</label>
-        <input type="text" name="lastname" id="prenom">
+        <input type="text" name="prenom" id="prenom">
       </p>
       <p>
         <label for="tel">Téléphone</label>
-        <input type="text" name="phone" id="tel">
+        <input type="text" name="tel" id="tel">
       </p>
       <p>
-        <label for="mel">E-mail</label>
-        <input type="email" name="mail" id="mel">
+        <label for="email">E-mail</label>
+        <input type="email" name="email" id="email">
       </p>
       <p><input type="submit" value="Enregistrer"></p>
     </form>
