@@ -21,8 +21,8 @@
         <input type="text" name="prenom" id="prenom">
       </p>
       <p>
-        <label for="tel">Téléphone</label>
-        <input type="text" name="tel" id="tel">
+        <label for="telephone">Téléphone</label>
+        <input type="text" name="telephone" id="telephone">
       </p>
       <p>
         <label for="email">E-mail</label>
