@@ -1,4 +1,4 @@
-# Gestionnaire de Contacts - Application CRUD
+#Gestionnaire de Contacts - Application CRUD
 
 Bienvenue dans ce projet de gestion de contacts, une application CRUD (Create, Read, Update, Delete) conçue pour démontrer les principes de base de la manipulation des données sans la sécurité des champs. Cette application est idéale pour les débutants souhaitant comprendre les fondements de la gestion des données dans une application web.
 Introduction
@@ -15,15 +15,15 @@ Fonctionnalités
     Frontend : HTML, CSS
     Base de Données : MySQL
     Outils : Git,
-    # Utilisation
-      ## Interface Utilisateur
+    #Utilisation
+      ##Interface Utilisateur
 
     Créer un Contact : Remplissez le formulaire avec les informations du contact et cliquez sur "Ajouter".
     Lire les Contacts : La liste des contacts s'affichera automatiquement sur la page principale.
     Mettre à Jour un Contact : Cliquez sur le bouton "Modifier" à côté du contact que vous souhaitez mettre à jour, modifiez les informations et sauvegardez.
     Supprimer un Contact : Cliquez sur le bouton "Supprimer" à côté du contact que vous souhaitez supprimer.
     
-    # API Endpoints
+    #API Endpoints
 
     GET /contacts : Récupère la liste des contacts.
     POST /contacts : Crée un nouveau contact.
