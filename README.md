@@ -1,4 +1,4 @@
-#Gestionnaire de Contacts - Application CRUD
+# Gestionnaire de Contacts - Application CRUD
 
 Bienvenue dans ce projet de gestion de contacts, une application CRUD (Create, Read, Update, Delete) conçue pour démontrer les principes de base de la manipulation des données sans la sécurité des champs. Cette application est idéale pour les débutants souhaitant comprendre les fondements de la gestion des données dans une application web.
 Introduction
